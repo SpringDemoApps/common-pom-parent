@@ -1,2 +1,2 @@
 # pom-base-parent
-pom base parent repo
+common library for all services
