@@ -1,2 +1,2 @@
 # pom-base-parent
-common library for all services
+common dependencies for all services
